@@ -1,0 +1,227 @@
+[
+  {
+    "id": "autos",
+    "titulo": "Autos particulares y remises",
+    "meta_titulo": "Tratamiento de olores con ozono en autos y remises",
+    "meta_desc": "Tratamiento de olores persistentes con ozono en autos particulares y remises. Ozono Clear Baradero, Buenos Aires. Consultá por tu vehículo.",
+    "imagen": null,
+    "problema": "Los autos y remises pueden quedar con olores persistentes por humo, humedad, comida o el uso diario, incluso en zonas a las que cuesta llegar con una limpieza común.",
+    "servicio": "Tratamiento con ozono aplicado de forma controlada, para olores persistentes, sin agregar fragancia.",
+    "contextos": [
+      "Autos particulares",
+      "Remises"
+    ],
+    "procedimiento": "Relevamiento de la situación, preparación del espacio, aplicación controlada, ventilación y verificación de condiciones seguras antes del reingreso. Contamos con instrumentos de medición y adaptamos el procedimiento a cada caso.",
+    "precauciones": [
+      "Durante la aplicación no puede haber personas, mascotas ni plantas en el espacio tratado.",
+      "El reingreso requiere verificar las condiciones seguras correspondientes.",
+      "No se recomienda la exposición directa al ozono.",
+      "El resultado depende del origen del olor y de los materiales; no se garantiza su eliminación total."
+    ],
+    "faq": [
+      {
+        "q": "¿Sirve para el olor a humo de cigarrillo?",
+        "a": "El tratamiento está pensado para olores persistentes, como el humo, la humedad o la comida. El resultado depende de cada caso y no se puede garantizar."
+      },
+      {
+        "q": "¿Puedo quedarme dentro del vehículo durante la aplicación?",
+        "a": "No. Durante la aplicación no puede haber personas, mascotas ni plantas en el espacio tratado."
+      }
+    ],
+    "relacionadas": [
+      "transporte",
+      "reparto"
+    ]
+  },
+  {
+    "id": "transporte",
+    "titulo": "Combis, micros y colectivos",
+    "meta_titulo": "Tratamiento de olores con ozono en combis, micros y colectivos",
+    "meta_desc": "Tratamiento de olores persistentes con ozono en combis, micros y colectivos. Ozono Clear Baradero, Buenos Aires. Consultá por tu unidad.",
+    "imagen": {
+      "src": "/assets/images/hero-micro.webp",
+      "w": 1470,
+      "h": 980,
+      "alt": "Interior de un micro de larga distancia con pasajeros sentados y luz de atardecer entrando por las ventanas"
+    },
+    "problema": "Con el uso diario, el interior de una unidad puede acumular olores: humo de cigarrillo, humedad, comida, el uso intensivo de los pasajeros u olores impregnados en los tapizados.",
+    "servicio": "Tratamiento con ozono aplicado de forma controlada dentro de la unidad, pensado para olores persistentes. Busca llegar también a zonas de difícil acceso del interior.",
+    "contextos": [
+      "Combis",
+      "Micros",
+      "Colectivos",
+      "Minibuses"
+    ],
+    "procedimiento": "Relevamiento de la situación, preparación del espacio, aplicación controlada, ventilación y verificación de condiciones seguras antes del reingreso. Contamos con instrumentos de medición y adaptamos el procedimiento a cada caso.",
+    "precauciones": [
+      "Durante la aplicación no puede haber personas, mascotas ni plantas en el espacio tratado.",
+      "El reingreso requiere verificar las condiciones seguras correspondientes.",
+      "No se recomienda la exposición directa al ozono.",
+      "El resultado depende del origen del olor y de los materiales; no se garantiza su eliminación total."
+    ],
+    "faq": [
+      {
+        "q": "¿Se pueden tratar varias unidades?",
+        "a": "Podés consultarnos por varias unidades. Se define a consulta, según tu caso."
+      },
+      {
+        "q": "¿Cuándo puede volver a usarse la unidad?",
+        "a": "Una vez finalizada la ventilación y verificadas las condiciones seguras. Te indicamos cuándo."
+      }
+    ],
+    "relacionadas": [
+      "reparto",
+      "autos"
+    ]
+  },
+  {
+    "id": "reparto",
+    "titulo": "Vehículos de reparto y flotas",
+    "meta_titulo": "Tratamiento de olores con ozono en vehículos de reparto y flotas",
+    "meta_desc": "Tratamiento de olores con ozono para vehículos de reparto, flotas y empresas de transporte. Servicios programados a consulta. Ozono Clear Baradero.",
+    "imagen": null,
+    "problema": "Los vehículos de reparto y las flotas pueden acumular olores por el uso intensivo, y un olor persistente afecta el trabajo diario.",
+    "servicio": "Tratamiento con ozono aplicado de forma controlada, para olores persistentes, sin agregar fragancia.",
+    "contextos": [
+      "Vehículos de reparto",
+      "Flotas de empresas",
+      "Empresas de transporte"
+    ],
+    "procedimiento": "Relevamiento de la situación, preparación del espacio, aplicación controlada, ventilación y verificación de condiciones seguras antes del reingreso. Contamos con instrumentos de medición y adaptamos el procedimiento a cada caso.",
+    "precauciones": [
+      "Durante la aplicación no puede haber personas, mascotas ni plantas en el espacio tratado.",
+      "El reingreso requiere verificar las condiciones seguras correspondientes.",
+      "No se recomienda la exposición directa al ozono.",
+      "El resultado depende del origen del olor y de los materiales; no se garantiza su eliminación total."
+    ],
+    "faq": [
+      {
+        "q": "¿Hacen tratamientos periódicos?",
+        "a": "Podés consultarnos por servicios programados. La frecuencia se define a consulta."
+      },
+      {
+        "q": "¿Cuánto cuesta por unidad?",
+        "a": "Se cotiza a consulta, según el tipo y la cantidad de vehículos."
+      }
+    ],
+    "relacionadas": [
+      "transporte",
+      "autos"
+    ]
+  },
+  {
+    "id": "comercios",
+    "titulo": "Comercios, gimnasios y oficinas",
+    "meta_titulo": "Tratamiento de olores con ozono en comercios, gimnasios y oficinas",
+    "meta_desc": "Tratamiento de olores con ozono para comercios, gimnasios y oficinas en Baradero, Buenos Aires. Consultá a Ozono Clear.",
+    "imagen": null,
+    "problema": "En ambientes cerrados, un olor persistente puede afectar la atención al público, la actividad y el trabajo diario.",
+    "servicio": "Tratamiento con ozono aplicado de forma controlada, para olores persistentes, sin agregar fragancia.",
+    "contextos": [
+      "Comercios",
+      "Gimnasios",
+      "Oficinas"
+    ],
+    "procedimiento": "Relevamiento de la situación, preparación del espacio, aplicación controlada, ventilación y verificación de condiciones seguras antes del reingreso. Contamos con instrumentos de medición y adaptamos el procedimiento a cada caso.",
+    "precauciones": [
+      "Durante la aplicación no puede haber personas, mascotas ni plantas en el espacio tratado.",
+      "El reingreso requiere verificar las condiciones seguras correspondientes.",
+      "No se recomienda la exposición directa al ozono.",
+      "El resultado depende del origen del olor y de los materiales; no se garantiza su eliminación total."
+    ],
+    "faq": [
+      {
+        "q": "¿Hay que cerrar el local durante la aplicación?",
+        "a": "Sí: no puede haber personas, mascotas ni plantas en el espacio tratado, por lo que se coordina un momento sin actividad."
+      },
+      {
+        "q": "¿Se puede hacer de forma periódica?",
+        "a": "Podés consultarnos por tratamientos periódicos. Mirá la sección Empresas."
+      }
+    ],
+    "relacionadas": [
+      "viviendas",
+      "reparto"
+    ]
+  },
+  {
+    "id": "viviendas",
+    "titulo": "Viviendas y alojamientos temporarios",
+    "meta_titulo": "Tratamiento de olores con ozono en viviendas y alojamientos",
+    "meta_desc": "Tratamiento de olores con ozono en viviendas y alojamientos temporarios de Baradero, Buenos Aires. Consultá a Ozono Clear.",
+    "imagen": null,
+    "problema": "Las viviendas y los alojamientos pueden quedar con olores que persisten entre un uso y otro.",
+    "servicio": "Tratamiento con ozono aplicado de forma controlada, para olores persistentes, sin agregar fragancia.",
+    "contextos": [
+      "Viviendas",
+      "Alojamientos temporarios"
+    ],
+    "procedimiento": "Relevamiento de la situación, preparación del espacio, aplicación controlada, ventilación y verificación de condiciones seguras antes del reingreso. Contamos con instrumentos de medición y adaptamos el procedimiento a cada caso.",
+    "precauciones": [
+      "Durante la aplicación no puede haber personas, mascotas ni plantas en el espacio tratado.",
+      "El reingreso requiere verificar las condiciones seguras correspondientes.",
+      "No se recomienda la exposición directa al ozono.",
+      "El resultado depende del origen del olor y de los materiales; no se garantiza su eliminación total."
+    ],
+    "faq": [
+      {
+        "q": "¿Se puede tratar una habitación entre huéspedes?",
+        "a": "Durante la aplicación el espacio debe estar sin personas, mascotas ni plantas y luego se verifica el reingreso. Los tiempos se coordinan en la consulta."
+      },
+      {
+        "q": "¿Qué pasa con mis plantas?",
+        "a": "Deben retirarse del espacio durante la aplicación."
+      }
+    ],
+    "relacionadas": [
+      "comercios",
+      "autos"
+    ],
+    "situaciones": [
+      {
+        "titulo": "La casa está limpia, pero todavía tiene olor",
+        "texto": "Olores a comida, encierro, mascotas, tabaco o humedad que persisten incluso después de limpiar.",
+        "lema": "Limpiar no siempre alcanza para resolver los olores residuales.",
+        "imagen": {
+          "src": "/assets/images/viviendas-1.webp",
+          "w": 163,
+          "h": 223,
+          "alt": "Living luminoso con sillones blancos, mesa ratona y ventanal con vista a un jardín"
+        }
+      },
+      {
+        "titulo": "Ambientes que permanecen cerrados",
+        "texto": "Casas de fin de semana, departamentos desocupados, habitaciones que estuvieron cerradas durante días o propiedades que se preparan para recibir visitas.",
+        "lema": "Prepará tus ambientes para volver a disfrutarlos.",
+        "imagen": {
+          "src": "/assets/images/viviendas-2.webp",
+          "w": 163,
+          "h": 223,
+          "alt": "Dormitorio con cama de respaldo gris, almohadones claros y cortinas"
+        }
+      },
+      {
+        "titulo": "El olor queda en los textiles",
+        "texto": "Cortinas, tapizados, colchones y alfombras pueden retener olores que vuelven a percibirse después de ventilar.",
+        "lema": "El ambiente es mucho más que lo que vemos.",
+        "imagen": {
+          "src": "/assets/images/viviendas-3.webp",
+          "w": 163,
+          "h": 223,
+          "alt": "Living con sillón, cortinas largas y alfombra"
+        }
+      },
+      {
+        "titulo": "Una propiedad que tiene que causar una buena impresión",
+        "texto": "Casas en alquiler, departamentos temporarios, alojamientos y viviendas que reciben invitados.",
+        "lema": "La primera impresión también se percibe con el olfato.",
+        "imagen": {
+          "src": "/assets/images/viviendas-4.webp",
+          "w": 163,
+          "h": 223,
+          "alt": "Cama tendida con ropa de cama clara y toallas enrolladas, como en un alojamiento"
+        }
+      }
+    ]
+  }
+]
