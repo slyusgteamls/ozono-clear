@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Administración | Ozono Clear</title>
+<link rel="stylesheet" href="../css/admin.css">
+</head>
+<body>
+<main>
+<section id="login" hidden>
+  <h1>Administración</h1>
+  <form id="login-form">
+    <label>Usuario<input name="u" autocomplete="username" required></label>
+    <label>Contraseña<input name="p" type="password" autocomplete="current-password" required></label>
+    <p class="bad" id="login-err" role="alert" hidden>Usuario o contraseña incorrectos.</p>
+    <button type="submit">Ingresar</button>
+  </form>
+  <p class="warn">Acceso provisional de demostración. Esta protección se puede saltear: no usar con información sensible.</p>
+</section>
+
+<section id="panel" hidden>
+  <header><h1>Panel de Ozono Clear</h1><button id="logout" type="button">Salir</button></header>
+  <p class="warn">Los cambios se guardan <strong>solo en este navegador</strong> y no se sincronizan con otros dispositivos. Para pasarlos a otro equipo, usá la copia de seguridad.</p>
+  <p id="status" role="status"></p>
+
+  <p><a href="presupuestos.html"><strong>Presupuestos</strong></a> (crear, enviar y registrar aceptaciones)</p>
+  <p id="summary"></p>
+
+  <h2>Datos del negocio</h2>
+  <div id="settings"></div>
+
+  <h2>Aplicaciones</h2>
+  <div id="apps"></div>
+  <button id="add" type="button">Agregar aplicación</button>
+
+  <h2>Preguntas frecuentes</h2>
+  <p>Se muestran en la página de preguntas; la portada muestra las tres primeras publicadas.</p>
+  <div id="faqs"></div>
+  <button id="add-faq" type="button">Agregar pregunta</button>
+
+  <h2>Promociones</h2>
+  <p>Solo se muestran las publicadas y dentro de su período. No se cargan precios ni descuentos automáticamente.</p>
+  <div id="promos"></div>
+  <button id="add-promo" type="button">Agregar promoción</button>
+
+  <h2>Banners y novedades</h2>
+  <div id="banners"></div>
+  <button id="add-banner" type="button">Agregar banner</button>
+
+  <p><button id="save" class="primary" type="button">Guardar cambios</button></p>
+
+  <h2>Copia de seguridad</h2>
+  <button id="export" type="button">Descargar copia (.json)</button>
+  <label class="file">Restaurar desde copia<input id="import" type="file" accept="application/json,.json"></label>
+  <p><a href="../index.html">Ver el sitio público</a></p>
+</section>
+</main>
+<script type="module" src="../js/admin.js"></script>
+</body>
+</html>
