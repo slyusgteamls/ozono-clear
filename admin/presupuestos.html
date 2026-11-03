@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Presupuestos | Ozono Clear</title>
+<link rel="stylesheet" href="../css/admin.css">
+</head>
+<body>
+<main>
+<section id="bloqueo" hidden>
+  <h1>Presupuestos</h1>
+  <p>Ingresá primero desde <a href="index.html">Administración</a>.</p>
+</section>
+<section id="panel" hidden>
+  <header><h1>Presupuestos</h1><a href="index.html">Volver al panel</a></header>
+  <p class="warn">Los presupuestos se guardan <strong>solo en este navegador</strong> y no se sincronizan con otros dispositivos. Descargá una copia de seguridad con frecuencia: si se borran los datos del navegador, se pierden.</p>
+  <p id="status" role="status"></p>
+  <p id="resumen"></p>
+
+  <h2>Nuevo presupuesto</h2>
+  <form id="nuevo" novalidate>
+    <label>Tipo de trabajo<select name="tipo" id="tipo" required></select></label>
+    <label>Cliente (nombre o empresa)<input name="cliente" maxlength="120" required></label>
+    <label>Servicio a realizar<input name="servicio" maxlength="300" required></label>
+    <label>Importe en pesos<input name="importe" inputmode="decimal" required></label>
+    <label>Fecha<input name="fecha" type="date" required></label>
+    <label>Validez en días<input name="validez" type="number" min="1" max="90" value="7" required></label>
+    <label>Condiciones del trabajo<textarea name="condiciones" rows="4" maxlength="3000" required></textarea></label>
+    <p class="bad" id="nuevo-error" role="alert" hidden></p>
+    <button class="primary" type="submit">Crear presupuesto</button>
+  </form>
+
+  <h2>Presupuestos</h2>
+  <div class="filtros">
+    <label>Estado<select id="f-estado"><option value="">Todos</option></select></label>
+    <label>Buscar por código o cliente<input id="f-texto" type="search"></label>
+  </div>
+  <div id="items"></div>
+
+  <h2>Copia de seguridad</h2>
+  <button id="export" type="button">Descargar copia (.json)</button>
+  <label class="file">Restaurar desde copia<input id="import" type="file" accept="application/json,.json"></label>
+</section>
+</main>
+<div id="print-area" aria-hidden="true"></div>
+<script type="module" src="../js/presupuestos-admin.js"></script>
+</body>
+</html>
