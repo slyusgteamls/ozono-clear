@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Agregar la línea Sitemap cuando se defina el dominio.
